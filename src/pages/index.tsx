@@ -8,9 +8,9 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>하나하나 만드러 나가보자</h1>
+    <h1>하나하나 만들어보자!!</h1>
     <p>
-      gatsby+react+typescript;
+      gatsby+react+typescript+netlify;
     </p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
